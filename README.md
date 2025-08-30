@@ -9,11 +9,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning **Web Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 📫 How to reach me sewminishashikala781@gmail.com
+- 📫 How to reach me **sewminishashikala781@gmail.com**
 
 - ⚡ Fun fact **Call me as Shashi**
 </td>
@@ -24,7 +24,7 @@
   </td>
 </tr>
 </table>
-
+<hr>
   
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -42,12 +42,12 @@
 </tr>
 </table>
 
-<br>
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sewmini shashikala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmini shashikala" height="30" width="40" /></a>
 <a href="https://fb.com/sewmini shashikala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sewmini shashikala" height="30" width="40" /></a>
-<a href="https://instagram.com/sewmini_shashikala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sewmini_shashikala" height="30" width="40" /></a></p><br>
+<a href="https://instagram.com/sewmini_shashikala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sewmini_shashikala" height="30" width="40" /></a></p><hr>
 
 
 
